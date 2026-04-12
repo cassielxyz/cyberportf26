@@ -1,7 +1,7 @@
 # Jesowin_ | Portfolio
 
 <div align="center">
-  <img src="public/avatar.jpg" alt="Jesowin avatar" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ffaa;">
+ 
   <h1>SECURING THE NETWORK</h1>
   <p><b>CCNA Aspirant | Aspiring Network Engineer | Networking & Cybersecurity</b></p>
   
